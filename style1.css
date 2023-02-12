@@ -1,0 +1,14 @@
+div {
+    position: relative;
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    height: 50%;
+  box-sizing: border-box;
+  
+padding-inline-start: 5%;
+    vertical-align: auto;
+  }
+
+
